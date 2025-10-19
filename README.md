@@ -1,0 +1,1 @@
+Om, since you’re already thinking about critic loops and map-reduce patterns, do you want me to show you how to extend this graph so that each article is summarized individually (map step) and then a synthesizer node combines them (reduce step)? That way you can handle dozens of Tavily docs without hitting context limits.

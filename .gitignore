@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+
+# uv virtual environment
+.venv/
+.uv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode / PyCharm project settings
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
